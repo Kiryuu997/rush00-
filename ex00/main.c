@@ -3,17 +3,17 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: bzawisto <bzawisto@student.42.fr>          +#+  +:+       +#+        */
+/*   By: gskerja <gskerja@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/07/05 20:07:07 by bzawisto          #+#    #+#             */
-/*   Updated: 2024/07/06 15:21:48 by bzawisto         ###   ########.fr       */
+/*   Created: 2024/07/06 20:23:46 by gskerja           #+#    #+#             */
+/*   Updated: 2024/07/06 20:23:52 by gskerja          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "rush03.c"
+void	rush(int x, int y);
 
 int	main(void)
 {
-	rush(4, 4);
+	rush(5, 5);
 	return (0);
 }
